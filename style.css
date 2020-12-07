@@ -1,0 +1,31 @@
+.header{
+    background-color:peachpuff;
+    justify-content:space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.a1{
+    border-style: solid;
+    border-width:10px;
+    background-color: darksalmon;
+    border-color: indianred;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body{
+        /*background-image: url("ogback.png");*/
+        margin: 200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: paleturquoise;
+        padding: 20px;
+}
+idk{
+background-color: paleturquoise;
+}
+
